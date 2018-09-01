@@ -47,3 +47,8 @@ Remove Padding:
   * Auto-size images to fit their container's width
       To automatically size an image to it's container just add `.img` to the `<img>` tag.
 
+### Hide Elements
+
+  * Hiding Elements
+      Add `.hidden` to any element to set `display: none`. (note: When hidden the element will 'collapse' so it won't take up any space while hidden)
+
