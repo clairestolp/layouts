@@ -1,0 +1,24 @@
+{
+  "name": "layouts",
+  "version": "1.0.0",
+  "description": "A set of SASS generated CSS classes to help customize layouts when using frameworks such as Bootstrap, Bulma, Materialize...ect.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "css-build": "node-sass --omit-source-map-url layout.scss layout.css"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clairestolp/layouts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clairestolp/layouts/issues"
+  },
+  "homepage": "https://github.com/clairestolp/layouts#readme",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  }
+}

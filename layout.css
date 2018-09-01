@@ -1,0 +1,182 @@
+/*---rem sizes---*/
+html {
+  /*-10px-*/
+  font-size: 62.5%; }
+
+body {
+  /*-14px-*/
+  font-size: 1.4rem; }
+
+/*---padding sizes---*/
+.p-xsm {
+  padding: 0.5rem; }
+
+.p-sm {
+  padding: 1rem; }
+
+.p-md {
+  padding: 1.5rem; }
+
+.p-lg {
+  padding: 2rem; }
+
+.p-xlg {
+  padding: xlarge; }
+
+.p-xsm-right {
+  padding-right: 0.5rem; }
+
+.p-sm-right {
+  padding-right: 1rem; }
+
+.p-md-right {
+  padding-right: 1.5rem; }
+
+.p-lg-right {
+  padding-right: 2rem; }
+
+.p-xlg-right {
+  padding-right: 3rem; }
+
+.p-xsm-left {
+  padding-left: 0.5rem; }
+
+.p-sm-left {
+  padding-left: 1rem; }
+
+.p-md-left {
+  padding-left: 1.5rem; }
+
+.p-lg-left {
+  padding-left: 2rem; }
+
+.p-xlg-left {
+  padding-left: 3rem; }
+
+.p-xsm-top {
+  padding-top: 0.5rem; }
+
+.p-sm-top {
+  padding-top: 1rem; }
+
+.p-md-top {
+  padding-top: 1.5rem; }
+
+.p-lg-top {
+  padding-top: 2rem; }
+
+.p-xlg-top {
+  padding-top: 3rem; }
+
+.p-xsm-bottom {
+  padding-bottom: 0.5rem; }
+
+.p-sm-bottom {
+  padding-bottom: 1rem; }
+
+.p-md-bottom {
+  padding-bottom: 1.5rem; }
+
+.p-lg-bottom {
+  padding-bottom: 2rem; }
+
+.p-xlg-bottom {
+  padding-bottom: 3rem; }
+
+/*---margins---*/
+.m-xsm {
+  margin: 0.5rem; }
+
+.m-sm {
+  margin: 1rem; }
+
+.m-md {
+  margin: 1.5rem; }
+
+.m-lg {
+  margin: 2rem; }
+
+.m-xlg {
+  margin: 3rem; }
+
+.m-xsm-right {
+  margin-right: 0.5rem; }
+
+.m-sm-right {
+  margin-right: 1rem; }
+
+.m-md-right {
+  margin-right: 1.5rem; }
+
+.m-lg-right {
+  margin-right: 2rem; }
+
+.m-xlg-right {
+  margin-right: 3rem; }
+
+.m-xsm-left {
+  margin-left: 0.5rem; }
+
+.m-sm-left {
+  margin-left: 1rem; }
+
+.m-md-left {
+  margin-left: 1.5rem; }
+
+.m-lg-left {
+  margin-left: 2rem; }
+
+.m-xlg-left {
+  margin-left: 3rem; }
+
+.m-xsm-top {
+  margin-top: 0.5rem; }
+
+.m-sm-top {
+  margin-top: 1rem; }
+
+.m-md-top {
+  margin-top: 1.5rem; }
+
+.m-lg-top {
+  margin-top: 2rem; }
+
+.m-xlg-top {
+  margin-top: 3rem; }
+
+.m-xsm-bottom {
+  margin-bottom: 0.5rem; }
+
+.m-sm-bottom {
+  margin-bottom: 1rem; }
+
+.m-md-bottom {
+  margin-bottom: 1.5rem; }
+
+.m-lg-bottom {
+  margin-bottom: 2rem; }
+
+.m-xlg-bottom {
+  margin-bottom: 3rem; }
+
+/*---remove padding/margin---*/
+.paddingless {
+  padding: 0px; }
+
+.marginless {
+  margin: 0px; }
+
+/*---Show/Hide---*/
+.hidden {
+  display: none; }
+
+/*---flex Layout---*/
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+/*---images---*/
+img {
+  max-width: 100%;
+  height: auto; }
