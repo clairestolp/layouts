@@ -34,5 +34,16 @@ Positions:
   * top
   * bottom
 
+Remove Padding: 
+  To remove all of the padding or margins on an element just use the `paddingless` or `.marginless` classes.
 
+### Flex Classes
+
+  * center elements horizontally and vertically
+      add `.flex-center` to the parent of the element(s) you want to center
+
+### Images
+
+  * Auto-size images to fit their container's width
+      To automatically size an image to it's container just add `.img` to the `<img>` tag.
 
