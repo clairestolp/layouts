@@ -1,6 +1,8 @@
 # layouts
 A set of SASS generated CSS classes to help customize layouts when using frameworks such as Bootstrap, Bulma, Materialize...ect.
 
+This project is a work in progress that will continue to be updated as the need arises in various projects.
+
 ### How to use
 
 #### Basic Use
@@ -39,16 +41,19 @@ Remove Padding:
 
 ### Flex Classes
 
-  * center elements horizontally and vertically
+  * Center elements horizontally and vertically:
+
       add `.flex-center` to the parent of the element(s) you want to center
 
 ### Images
 
-  * Auto-size images to fit their container's width
+  * Auto-size images to fit their container's width: 
+
       To automatically size an image to it's container just add `.img` to the `<img>` tag.
 
 ### Hide Elements
 
-  * Hiding Elements
+  * Hiding Elements:
+
       Add `.hidden` to any element to set `display: none`. (note: When hidden the element will 'collapse' so it won't take up any space while hidden)
 
